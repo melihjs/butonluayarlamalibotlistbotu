@@ -1,6 +1,6 @@
-👋 Hi hello, this bot is the **Adjustable BotList bot** infrastructure of Ghost Team. **All rights of this bot belong to us and necessary** actions will be taken in case of stolen.
+👋 Hi hello, this bot is the **Buttonable and Adjustable BotList bot** infrastructure of Ghost Team. **All rights of this bot belong to us and necessary** actions will be taken in case of stolen.
 
-👋 Merhaba bu bot Ghost Ekibinin **Ayarlamalı BotList botu** altyapısıdır. bu botun **tüm hakları bize aittir** ve çalınması durumunda gerekli işlemler uygulanacaktır.
+👋 Merhaba bu bot Ghost Ekibinin **Butonlu ve Ayarlamalı BotList botu** altyapısıdır. bu botun **tüm hakları bize aittir** ve çalınması durumunda gerekli işlemler uygulanacaktır.
 
 🔧 Ghost Team <3
 
