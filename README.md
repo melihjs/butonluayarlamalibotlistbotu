@@ -6,9 +6,9 @@
 
 **📣 [Discord Server](https://discord.gg/PHBtfUecat)**
 
-💥 Ghost & Archéx Development!
+💥 Ghost Development!
 
-⚒️ [**Ghost Development**](https://discord.gg/KMJCshWX4D)
+⚒️ [**Ghost Development**]https://discord.gg/PHBtfUecat)
 
 **🔧 Made by** : [Melih](https://youtube.com/c/zmelihstrqfe) ,
          [Kaan](https://www.youtube.com/c/kaanxd)  
