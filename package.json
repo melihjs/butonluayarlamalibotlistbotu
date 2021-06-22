@@ -1,0 +1,15 @@
+{
+  "name": "kod-paylasma",
+  "version": "0.0.1",
+  "description": "Archex Development tarafından yapılmıştır!",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "croxydb": "0.0.7",
+    "discord-buttons": "^3.2.1",
+    "discord-slider": "^1.1.6",
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.2",
+    "quick.db": "^7.1.3"
+  }
+}
