@@ -4,11 +4,11 @@
 
 🔧 Ghost Team <3
 
-**📣 [Discord Server](https://discord.gg/PHBtfUecat)**
+**📣 [Discord Server](https://discord.gg/SGdy3jtMCB)**
 
 💥 Ghost Development!
 
-⚒️ [**Ghost Development**]https://discord.gg/PHBtfUecat)
+⚒️ [**Ghost Development**](https://discord.gg/SGdy3jtMCB)
 
 **🔧 Made by** : [Melih](https://youtube.com/c/zmelihstrqfe) ,
          [Kaan](https://www.youtube.com/c/kaanxd)  
