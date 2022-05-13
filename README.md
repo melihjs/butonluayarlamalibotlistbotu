@@ -4,13 +4,13 @@
 
 🔧 Ghost Team <3
 
-**📣 [Discord Server](https://discord.gg/SGdy3jtMCB)**
+**📣 [Discord Server](https://discord.gg/ya9Gw8hBb2)**
 
 💥 Ghost Development!
 
-⚒️ [**Ghost Development**](https://discord.gg/SGdy3jtMCB)
+⚒️ [**Ghost Development**](https://discord.gg/ya9Gw8hBb2)
 
 **🔧 Made by** : [Melih](https://youtube.com/c/zmelihstrqfe) ,
          [Kaan](https://www.youtube.com/c/kaanxd)  
              
- **💡 SSS** : [Come this guild](https://discord.gg/PHBtfUecat) | [Bu sunucuya gel](https://discord.gg/PHBtfUecat)
+ **💡 SSS** : [Come this guild](https://discord.gg/ya9Gw8hBb2) | [Bu sunucuya gel](https://discord.gg/ya9Gw8hBb2)
